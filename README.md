@@ -1,4 +1,3 @@
-# Image-Segmentation-Using-Deeplab-On-Camvid-and-Cityescape-
 # Image Segmentation Using DeepLab on CamVid and Cityscapes  
 
 ## Overview  
